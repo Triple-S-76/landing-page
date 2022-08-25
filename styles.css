@@ -1,0 +1,151 @@
+
+.box-1 {
+    background-color: #1F2937;
+    padding: 10px 30px 20px 30px;
+}
+
+.logo-links {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 30px;
+}
+
+.main-and-image {
+    display: flex;
+    justify-content: space-around;
+}
+ 
+.header-logo {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.subtext, .link {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.link {
+    color: #F9FAF8;
+    text-decoration: none;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+    gap: 20px;
+    padding-top: 20px;
+    
+}
+
+.title {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+button {
+    color: white;
+    background-color: #3882F6;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 15px;
+    border: 1px solid white;
+}
+
+.main-logo-box {
+    padding-left: 20px;
+    align-self: center;
+    max-width: 850px;
+}
+
+.main-logo {
+    width: 100%;   
+}
+
+.box-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px 0px;
+}
+
+.information {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 800px;
+    padding-bottom: 25px;
+}
+
+.info-boxes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+}
+
+.infobox {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    align-items: center;
+}
+
+.scrunchie {
+    width: 200px;
+    border: 2px solid blue;
+    border-radius: 25px;
+}
+
+.box-3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #E5E7EB;
+}
+
+.feedback-title {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 800px;    
+    margin: 20px;
+}
+
+.feedback-group {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-bottom: 20px;
+    font-style: italic;
+}
+
+.feedback {   
+    color: #1F2937;
+    font-size: 20px;
+}
+
+.box-4 {
+    background-color: white;
+}
+
+.action {
+    margin: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px;
+    background-color: #3882F6;
+    border-radius: 10px;;
+}
+
+.action-1, .action-2 {
+    padding: 10px;
+    color: white;
+    font-size: 18px;
+}
+
+.action-1 {
+    font-size: 24px;
+}
